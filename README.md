@@ -23,3 +23,6 @@ Link to Dataset : https://www.kaggle.com/datasets/puneet6060/intel-image-classif
 6. Street
 <img src="example-images/street.jpg" alt="augdog5" width="100">   
 
+## Error
+- If you found any error while implementing this code with different datasets. Please understand the code completely especially in the inference script
+- If the error is still unsolvalbe, feel free to reach me or as last resort, use chatGPT
