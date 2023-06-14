@@ -53,7 +53,7 @@
 4. Bar w/ Mask
 <img src="example-images/bar mask.png" alt="augdog5" width="300">   
 5. Bar (Both Mask and No Mask)
-<img src="example-images/bar bothh.png" alt="augdog5" width="300">    
+<img src="example-images/bar both.png" alt="augdog5" width="300">    
 
 ## Error
 - If you found any error while implementing this code with different datasets. Please understand the code completely especially in the inference script
