@@ -29,10 +29,10 @@
 - This code takes the image into 224x224 size image
 
 > Training Accuracy
-<img src="example-images/accuracy graph.png" alt="augdog5" width="300">
+<img src="example-images/accuracy graph.png" alt="augdog5" width="500">
 
 > Testing Acccuracy
-<img src="example-images/loss graph.png" alt="augdog5" width="300">
+<img src="example-images/loss graph.png" alt="augdog5" width="500">
 
 ## Testing Results
 
