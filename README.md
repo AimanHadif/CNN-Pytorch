@@ -44,6 +44,17 @@
    > Unmasking the Image (normal)
 - Refer to https://github.com/AimanHadif/Image-Masking for details on Masked Image
 
+1. Pie w/ Mask
+<img src="example-images/pie mask.png" alt="augdog5" width="500">   
+2. Pie w/o Mask
+<img src="example-images/pie no mask.png" alt="augdog5" width="500">   
+3. Pie (Both Mask and No Mask)
+<img src="example-images/pie both.png" alt="augdog5" width="500">   
+4. Bar w/ Mask
+<img src="example-images/bar mask.png" alt="augdog5" width="500">   
+5. Bar (Both Mask and No Mask)
+<img src="example-images/bar bothh.png" alt="augdog5" width="500">    
+
 ## Error
 - If you found any error while implementing this code with different datasets. Please understand the code completely especially in the inference script
 - If the error is still unsolvalbe, feel free to reach me or as last resort, use chatGPT
