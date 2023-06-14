@@ -30,7 +30,7 @@
 <img src="example-images/accuracy graph.png" alt="augdog5" width="500">
 
 1. Training Accuracy
-<img src="example-images/training results.png" alt="augdog5" width="300">
+<img src="example-images/training results.png" alt="augdog5" width="600">
 
 2. Testing Acccuracy
 <img src="example-images/loss graph.png" alt="augdog5" width="500">
