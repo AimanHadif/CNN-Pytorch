@@ -28,14 +28,21 @@
 - The settings of the image size can be tuned depending on your experiments
 - This code takes the image into 224x224 size image
 
-> Training Accuracy
+1. Training Accuracy
 <img src="example-images/accuracy graph.png" alt="augdog5" width="500">
 
-> Testing Acccuracy
+2. Testing Acccuracy
 <img src="example-images/loss graph.png" alt="augdog5" width="500">
 
 ## Testing Results
-
+- Inference was done using the Intel_CNN_Inference.ipynb script in this repo
+- There are 2 options to output the inference
+  > Pie Chart </br>
+  > Bar Plot
+- There are also 2 preprocessing in the test folder which are
+   > Masking the Image </br>
+   > Unmasking the Image (normal)
+- Refer to https://github.com/AimanHadif/Image-Masking for details on Masked Image
 
 ## Error
 - If you found any error while implementing this code with different datasets. Please understand the code completely especially in the inference script
