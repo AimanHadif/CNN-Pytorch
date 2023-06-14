@@ -27,9 +27,10 @@
 ## Training Results
 - The settings of the image size can be tuned depending on your experiments
 - This code takes the image into 224x224 size image
+<img src="example-images/accuracy graph.png" alt="augdog5" width="500">
 
 1. Training Accuracy
-<img src="example-images/accuracy graph.png" alt="augdog5" width="500">
+<img src="example-images/training results.png" alt="augdog5" width="300">
 
 2. Testing Acccuracy
 <img src="example-images/loss graph.png" alt="augdog5" width="500">
