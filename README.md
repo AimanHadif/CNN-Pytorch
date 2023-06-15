@@ -57,5 +57,6 @@
 <img src="example-images/bar both.png" alt="augdog5" width="600">    
 
 ## Error
+- There should not be any error unless you've changed the input size, and the number of class. If that is the case then refer back to the CNN architecture to adjust the output number and the image size on the final layer
 - If you found any error while implementing this code with different datasets. Please understand the code completely especially in the inference script
 - If the error is still unsolvalbe, feel free to reach me or as last resort, use chatGPT
