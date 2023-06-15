@@ -27,12 +27,12 @@
 ## Training Results
 - The settings of the image size can be tuned depending on your experiments
 - This code takes the image into 224x224 size image
-<img src="example-images/accuracy graph.png" alt="acc" width="500">
-
-1. Training Accuracy
 <img src="example-images/training results.png" alt="train" width="600">
 
-2. Testing Acccuracy
+1. Training Graph
+<img src="example-images/accuracy graph.png" alt="acc" width="500">
+
+2. Loss Graph
 <img src="example-images/loss graph.png" alt="test" width="500">
 
 ## Testing Results
