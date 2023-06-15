@@ -1,4 +1,4 @@
-![image](https://github.com/AimanHadif/Intel-Image-Classification/assets/74128585/1c4f6d82-643d-472c-937c-636721378bfd)# Intel Image Classification Dataset Using PyTorch
+# Intel Image Classification Dataset Using PyTorch
 - Image classification using CNN PyTorch format of Intel Image Classification dataset
 - Link to Dataset : https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 - The model achieved a training accuracy of 98.76% and a testing accuracy of 79.50% without doing any parameter tuning
