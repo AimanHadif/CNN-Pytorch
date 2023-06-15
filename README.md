@@ -45,7 +45,7 @@
    > Unmasking the Image (normal)
 - Refer to https://github.com/AimanHadif/Image-Masking for details on Masked Image
 - Example output will produce the file for class and the each image predicted in the class, the visualization (pie/bar), and csv file of the filename and the predicted label
-- 
+  
 <img src="example-images/example output.png" alt="output" width="800">
 
 1. Pie w/ Mask
